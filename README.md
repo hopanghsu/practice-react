@@ -1,3 +1,17 @@
+# practice-react
+
+This is a playground repository for practicing the really popular JavaScript
+framework, [React](https://reactjs.org/) in Windows 10 by following the
+[official tutorial](https://reactjs.org/tutorial/tutorial.html).
+
+## Environment Setup
+
+- Install Ubuntu 20.04 on [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- Install [Node.js](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
+- Create a [React app](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
+
+----
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
